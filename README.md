@@ -3,7 +3,8 @@ Example for using adminjs with node.
 Have PG running locally. Create a "users" table in it. app.js has a connection string that can be modified.
 
 ```
-cd klarp
+git clone git@github.com:markhildreth/adminjs_demo.git
+cd adminjs_demo
 npm install
 node app.js
 ```
